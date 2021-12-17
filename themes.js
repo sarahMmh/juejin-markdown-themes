@@ -153,6 +153,13 @@ const themes = {
     path: 'Chinese-red.scss',
     ref: 'ac8c9e5',
     highlight: 'xcode',
+  },
+  'dark-sea': {
+    owner: 'sarahMmh',
+    repo: 'dark-see-theme',
+    path: 'darkSea.scss',
+    ref: '1dc8d2',
+    highlight: 'xcode',
   }
 };
 
